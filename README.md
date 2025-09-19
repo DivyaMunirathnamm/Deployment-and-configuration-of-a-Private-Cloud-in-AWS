@@ -57,7 +57,8 @@ Deploying Resources:
 # Snap Shots:
 
 1: Create VPC 
-<img width="971" height="494" alt="image" src="https://github.com/user-attachments/assets/ccc94138-779e-491e-9b15-a3500a74ca3e" />
+<img width="956" height="566" alt="image" src="https://github.com/user-attachments/assets/4a32e14f-145e-460c-8886-ed7639506750" />
+
 
 2: Configuring Subnets 
 <img width="971" height="494" alt="image" src="https://github.com/user-attachments/assets/9beebde2-5fbc-40bc-8bab-baf5815ae428" />
